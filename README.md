@@ -1,5 +1,8 @@
-## 书籍名称
+## ifmicro-gitbook
 
-这里书籍介绍，替换即可  
+
+### 目前有什么呢  
+
+1. 分支 `branch : template` : 存放 gitbook 的初始化模板  
 
 

@@ -1,0 +1,4 @@
+book-gitbook/*
+_book/*
+*.swp
+node_modules/*
